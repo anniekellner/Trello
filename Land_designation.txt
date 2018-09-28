@@ -1,0 +1,6731 @@
+{
+id: "5ab5869d9a87c94a1948abf8",
+name: "Research",
+desc: "",
+descData: null,
+closed: false,
+idOrganization: null,
+invited: false,
+limits: {
+attachments: {
+perBoard: {
+status: "ok",
+disableAt: 34200,
+warnAt: 32400
+}
+},
+boards: {
+totalMembersPerBoard: {
+status: "ok",
+disableAt: 1520,
+warnAt: 1440
+}
+},
+cards: {
+openPerBoard: {
+status: "ok",
+disableAt: 4750,
+warnAt: 4500
+},
+totalPerBoard: {
+status: "ok",
+disableAt: 1900000,
+warnAt: 1800000
+}
+},
+checklists: {
+perBoard: {
+status: "ok",
+disableAt: 1900000,
+warnAt: 1800000
+}
+},
+customFields: {
+perBoard: {
+status: "ok",
+disableAt: 48,
+warnAt: 45
+}
+},
+labels: {
+perBoard: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+}
+},
+lists: {
+openPerBoard: {
+status: "ok",
+disableAt: 475,
+warnAt: 450
+},
+totalPerBoard: {
+status: "ok",
+disableAt: 2850,
+warnAt: 2700
+}
+}
+},
+pinned: false,
+starred: false,
+url: "https://trello.com/b/aOftIlo8/research",
+prefs: {
+permissionLevel: "private",
+voting: "disabled",
+comments: "members",
+invitations: "members",
+selfJoin: false,
+cardCovers: true,
+cardAging: "regular",
+calendarFeedEnabled: false,
+background: "pink",
+backgroundImage: null,
+backgroundImageScaled: null,
+backgroundTile: false,
+backgroundBrightness: "dark",
+backgroundColor: "#CD5A91",
+backgroundBottomColor: "#CD5A91",
+backgroundTopColor: "#CD5A91",
+canBePublic: true,
+canBeOrg: true,
+canBePrivate: true,
+canInvite: true
+},
+invitations: [ ],
+shortLink: "aOftIlo8",
+subscribed: false,
+labelNames: {
+green: "",
+yellow: "",
+orange: "",
+red: "",
+purple: "",
+blue: "",
+sky: "",
+lime: "",
+pink: "",
+black: ""
+},
+powerUps: [ ],
+dateLastActivity: "2018-09-28T18:43:13.092Z",
+dateLastView: "2018-09-28T19:46:50.943Z",
+shortUrl: "https://trello.com/b/aOftIlo8",
+idTags: [ ],
+datePluginDisable: null,
+creationMethod: null,
+actions: [
+{
+id: "5bae7641f0322680c79acd15",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+checkItem: {
+state: "complete",
+name: "Random v. clustered landing locations",
+id: "5b4e5dd0f4b3bf1668df3898"
+},
+checklist: {
+name: "LANDING ANALYSIS",
+id: "5b476a95293edf0658199d3d"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+}
+},
+type: "updateCheckItemStateOnCard",
+date: "2018-09-28T18:43:13.082Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5bae763b812d9c1e5a393217",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+checkItem: {
+state: "complete",
+name: "Starting locations",
+id: "5b4e5d9b4baa9c46ccfd1956"
+},
+checklist: {
+name: "LANDING ANALYSIS",
+id: "5b476a95293edf0658199d3d"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+}
+},
+type: "updateCheckItemStateOnCard",
+date: "2018-09-28T18:43:07.877Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5bae7638419c6624afaea255",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+checkItem: {
+state: "complete",
+name: "Correlations between longitudinal starting points v. landing points",
+id: "5b4e5dc3958bba119bc68285"
+},
+checklist: {
+name: "LANDING ANALYSIS",
+id: "5b476a95293edf0658199d3d"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+}
+},
+type: "updateCheckItemStateOnCard",
+date: "2018-09-28T18:43:04.475Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5bae75ce5a25cb2ca8f3ce06",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+checkItem: {
+state: "complete",
+name: "Create RMarkdown file for GW and SB",
+id: "5baaaccef0ad9f5c9de95b0d"
+},
+checklist: {
+name: "Week of Monday Sept. 24",
+id: "5ba575e2e732194cfb152848"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+}
+},
+type: "updateCheckItemStateOnCard",
+date: "2018-09-28T18:41:18.237Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5bae75cb854dd4333eed6ba5",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+checkItem: {
+state: "complete",
+name: "Determine whether starting/landing is random or clustered",
+id: "5ba57636ce0b1d56796c9595"
+},
+checklist: {
+name: "Week of Monday Sept. 24",
+id: "5ba575e2e732194cfb152848"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+}
+},
+type: "updateCheckItemStateOnCard",
+date: "2018-09-28T18:41:15.653Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5bae75ca50390506c8674bb3",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+checkItem: {
+state: "complete",
+name: "Correlate starting/landing",
+id: "5ba57614b3a8976b859f0849"
+},
+checklist: {
+name: "Week of Monday Sept. 24",
+id: "5ba575e2e732194cfb152848"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+}
+},
+type: "updateCheckItemStateOnCard",
+date: "2018-09-28T18:41:14.764Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5bae753d13d22088132361b1",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "Completed K-S test to test whether landing is uniformly distributed from long. of Point Barrow to US-CA border (end of barrier island protection of crit. hab. from USFWS). test_unif.R MIgration.Rmd --> not clear why starting location matters",
+textData: {
+emoji: { }
+},
+dateLastEdited: "2018-09-28T18:41:05.186Z"
+},
+type: "commentCard",
+date: "2018-09-28T18:38:53.689Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5bad4c39331af66eb1d9d16b",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "Test for uniform distribution of longitude for arrival points. Westernmost = -159.64694 (pb_20333 2008) Easternmost = US-CA border (141st meridian west) --> could revise this to cut off westernmost point such that area starts at Point Barrow. Also could include Canada to Baillie Island. TOMORROW: look into Kologomorov-Smirnov test using punif or runif. Look at R Notebook as refresher for what p,d,r mean ALSO: back up Trello and back up files Migration.js test_unif.R Migration.Rmd",
+textData: {
+emoji: { }
+},
+dateLastEdited: "2018-09-27T22:02:52.016Z"
+},
+type: "commentCard",
+date: "2018-09-27T21:31:37.224Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5babd6a937bdfd1e6a8be11c",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "Updated start.swim and end.swim in database (all.RData) Ran correlation - highly significant (0.815, p<0.001). Bears are beginning their southward migration with consideration of where they intend to land. Next step: define possible starting points. Use KDE to determine "available" area? Nathan: package CTMM can deal with autocorrelation if that's an issue, e.g. points are too specific to times of day. Can try to compute Geary's C in GEE TOMORROW: keep working through adehabitat? Attempt Geary's C in GEE. SHapefile (cp.shp) did not upload into GEE. Try again. mcp95.R",
+textData: {
+emoji: { }
+},
+dateLastEdited: "2018-09-26T23:01:37.642Z"
+},
+type: "commentCard",
+date: "2018-09-26T18:57:45.111Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5baaad0e1443462f4f0383e9",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "Completed swim_az.csv. All dates and locations final. "
+},
+type: "commentCard",
+date: "2018-09-25T21:47:58.973Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5baaaa64e792c35ea7403d76",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+checkItem: {
+state: "complete",
+name: "Finish swim.xlsx - finalize dates",
+id: "5ba5760a43bb067b8243ded5"
+},
+checklist: {
+name: "Week of Monday Sept. 24",
+id: "5ba575e2e732194cfb152848"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+}
+},
+type: "updateCheckItemStateOnCard",
+date: "2018-09-25T21:36:36.897Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5ba95ea1b92e3267a8fcf4cc",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "LAND DEFINITION: "We then determined which animal locations occurred within the 5 km land buffer and categorized those as predicted land locations. While this might have resulted in some bears not on land being classified as using land, this was unlikely to occur given that landfast ice is largely absent during this period. Thus, any animal observed within this buffer would most likely have used land at some point during that day". (Atwood et al. 2016) - northernmost point before a directional southward movement of at least 50km, concluding with the first 'land' point during the open water season. "
+},
+type: "commentCard",
+date: "2018-09-24T22:01:05.787Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5ba5762e7087ca82e5a00cf0",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+checklist: {
+id: "5ba575e2e732194cfb152848",
+name: "Week of Monday Sept. 24"
+},
+old: {
+name: "Monday Sept. 24"
+}
+},
+type: "updateChecklist",
+date: "2018-09-21T22:52:30.062Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5ba575e2e732194cfb152849",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+checklist: {
+name: "Monday Sept. 24",
+id: "5ba575e2e732194cfb152848"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+}
+},
+type: "addChecklistToCard",
+date: "2018-09-21T22:51:14.524Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5ba3c211b9754a5ceec66793",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "Determining 'southward' as ESE - WSW (101.25 - 258.75) DEFINITION: Start = Point immediately preceding southward trajectory of > 50km. End: First land point after southward trajectory of > 50km, after which bear uses land regularly (.= 7 days?) azimuth.R swim_az.csv TOMORROW: go through rest of bears (swim_az.csv) and see how well definition fits ",
+textData: {
+emoji: { }
+},
+dateLastEdited: "2018-09-20T21:52:23.397Z"
+},
+type: "commentCard",
+date: "2018-09-20T15:51:45.363Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5ba27bf732d5932f2b83a7a4",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "NSD/BCPA do not work. Defining start of migration without statistical methods - northernmost point before southward trajectory. using azimuth from TA original dataset. Azimuth calculated from one point to the next. See azimuth.R TOMORROW: write ifelse code to classify each azimuth as 0 (not southerly) or 1 (SE to SW). Then define by number of southward trajectories. ",
+textData: {
+emoji: { }
+},
+dateLastEdited: "2018-09-19T20:48:07.320Z"
+},
+type: "commentCard",
+date: "2018-09-19T16:40:23.989Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b9ff89f3c5cef8c5e025a2f",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "Dave Douglas sent updated SIC stats: sbs_daily_icestats_1979_2017_v6.csv - Talked to Dave. Some interesting points. See OneNote for summary. Downloaded Sea Ice Tifs for every start date, in case want to visualize ice the day the bears leave. --> going back to BCPA to ID migration. Downloaded package for R and the vignette 'bcpa.pdf' There is an updated package from Gurarie's most recent article in Movement Ecology - 'smoove'. However does not yet work for latest R update.",
+textData: {
+emoji: { }
+},
+dateLastEdited: "2018-09-17T23:24:37.496Z"
+},
+type: "commentCard",
+date: "2018-09-17T18:55:27.488Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b9bd5a178a1738a12edbec7",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "Checked against GEE. Total is 19 swims - must have counted wrong in email to GW. compiled swim data (months encompassing swim data for each bear) into swimHMM.RData Dave Douglas at USGS is compiling stats for 30% ice concentration for me. Should be done computing by Monday. HMM doesn't seem necessary for what I'm trying to do. Try using NSD on Monday. ",
+textData: {
+emoji: { }
+},
+dateLastEdited: "2018-09-14T20:51:00.463Z"
+},
+type: "commentCard",
+date: "2018-09-14T15:37:05.941Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b9ad5ad3e300d87bf40afab",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "Prepping data for moveHMM analysis to determine migration and relate to sea ice concentration over shelf as covariate. Step 1 - create database for all bears with clear swims (file = swim.xlsx, sheet 'moveHMM'). Extract sea ice concentration data from TA data. --> DISCREPANCY BETWEEN TOTAL REPORTED TO GW AND TOTAL ON SPREADSHEET. CHECKING GEE. 21238 needs to be redone using Notepad ++ ",
+textData: {
+emoji: { }
+},
+dateLastEdited: "2018-09-13T22:18:08.979Z"
+},
+type: "commentCard",
+date: "2018-09-13T21:25:01.091Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b997dff6c7fed1f288d38be",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "moveHMM - began working through one test example (pb_20414) moveHMM_test.R"
+},
+type: "commentCard",
+date: "2018-09-12T20:58:39.795Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b8da44b2eb0e46fd1c42a33",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "QUANTITATIVELY DEFINING MIGRATION START - emailed Guillaume for advice on best way to do this. GW: 'persistent velocity'. Good paper: What is the animal doing? (J Animal Ecol) TUESDAY - pick up reading What is the animal doing?",
+textData: {
+emoji: { }
+},
+dateLastEdited: "2018-09-03T21:25:33.776Z"
+},
+type: "commentCard",
+date: "2018-09-03T21:14:51.048Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b898dc9c192df48b447c035",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+checkItem: {
+state: "complete",
+name: "look for more data - why only 16 bears?",
+id: "5b896587c0cc9e48c2c2c59c"
+},
+checklist: {
+name: "TO DO post-meeting",
+id: "5b89657b10a14915200d82a2"
+},
+card: {
+shortLink: "6ada07YB",
+idShort: 7,
+name: "Meetings",
+id: "5b7c7a7ed4e6cb422c242abf"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+}
+},
+type: "updateCheckItemStateOnCard",
+date: "2018-08-31T18:49:45.577Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b898dc55a20303797751d8e",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+checkItem: {
+state: "complete",
+name: "look into Todd's paper - how defined 'arrival date' and calculated ice conditions before arrival",
+id: "5b896690f909ce5425074d61"
+},
+checklist: {
+name: "TO DO post-meeting",
+id: "5b89657b10a14915200d82a2"
+},
+card: {
+shortLink: "6ada07YB",
+idShort: 7,
+name: "Meetings",
+id: "5b7c7a7ed4e6cb422c242abf"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+}
+},
+type: "updateCheckItemStateOnCard",
+date: "2018-08-31T18:49:41.355Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b89717496b34e549071ad5d",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "6ada07YB",
+idShort: 7,
+name: "Meetings",
+id: "5b7c7a7ed4e6cb422c242abf"
+},
+text: "TA had 29 GPS collared bears in his study. I double-checked my data and was able to add two more datapoints (pb_06817 and pb_20418), but still only 18 swims for 16 bears. Sent email to ask. File: swim.csv In the model, time before arrival was 1 week. ",
+textData: {
+emoji: { }
+},
+dateLastEdited: "2018-08-31T18:49:20.121Z"
+},
+type: "commentCard",
+date: "2018-08-31T16:48:52.374Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b89657b10a14915200d82a3",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+checklist: {
+name: "TO DO post-meeting",
+id: "5b89657b10a14915200d82a2"
+},
+card: {
+shortLink: "6ada07YB",
+idShort: 7,
+name: "Meetings",
+id: "5b7c7a7ed4e6cb422c242abf"
+}
+},
+type: "addChecklistToCard",
+date: "2018-08-31T15:57:47.952Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b896573e6b66154a3303d94",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+checklist: {
+name: "Aug 30",
+id: "5b7c7a946317ff7e0b69c062"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "6ada07YB",
+idShort: 7,
+name: "Meetings",
+id: "5b7c7a7ed4e6cb422c242abf"
+}
+},
+type: "removeChecklistFromCard",
+date: "2018-08-31T15:57:39.707Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b89656e8bc1fc4f1c13efcb",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+checkItem: {
+state: "complete",
+name: "Make map with all departure and landing locations for swims. Make maps with questionable ones so can get advice from SB and GW.",
+id: "5b7c7ac8f8c6eb473dda3a3e"
+},
+checklist: {
+name: "Aug 30",
+id: "5b7c7a946317ff7e0b69c062"
+},
+card: {
+shortLink: "6ada07YB",
+idShort: 7,
+name: "Meetings",
+id: "5b7c7a7ed4e6cb422c242abf"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+}
+},
+type: "updateCheckItemStateOnCard",
+date: "2018-08-31T15:57:34.986Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b87255fc07a30496dd4a67c",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "Wrote script in GGE for all paths and landing locations: swims.js"
+},
+type: "commentCard",
+date: "2018-08-29T22:59:43.964Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b86ddcd2450954ab216c9b4",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "fp41qNOH",
+idShort: 4,
+name: "NSD Analysis (bonepile bears)",
+id: "5b1ead38271cf6520651cd9f"
+},
+text: ""all" database is now all.RData. Amended database and deleted pbears.RData. Also updated swim_ice.RData.",
+textData: {
+emoji: { }
+},
+dateLastEdited: "2018-08-29T17:55:44.971Z"
+},
+type: "commentCard",
+date: "2018-08-29T17:54:21.968Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b86db96d20c6d235bf9220b",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+checklist: {
+name: "TO DO",
+id: "5b86db88815dba7f6b8e82f7"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+}
+},
+type: "removeChecklistFromCard",
+date: "2018-08-29T17:44:54.974Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b86db88815dba7f6b8e82f8",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+checklist: {
+name: "TO DO",
+id: "5b86db88815dba7f6b8e82f7"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+}
+},
+type: "addChecklistToCard",
+date: "2018-08-29T17:44:40.117Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b85cc23032b97365a0ec1a0",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "fp41qNOH",
+idShort: 4,
+name: "NSD Analysis (bonepile bears)",
+id: "5b1ead38271cf6520651cd9f"
+},
+text: "Completed NSD plots: NSD_ggplot.R Saved plots to C:\Users\akell\Desktop\Fall_2018\Research\NSD Inconclusive: 06817_2006, 20741_2008, 21343_2015. Write scripts to plot these and check whether bonepile bears. Began PPT for meeting 8/30. MeetingSBGW_083018.ppt Created Drive folder to save GGE images into",
+textData: {
+emoji: { }
+},
+dateLastEdited: "2018-08-28T22:27:14.883Z"
+},
+type: "commentCard",
+date: "2018-08-28T22:26:43.472Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b8568649f48bc2709607a50",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "fp41qNOH",
+idShort: 4,
+name: "NSD Analysis (bonepile bears)",
+id: "5b1ead38271cf6520651cd9f"
+},
+text: "Created different traj files for each fix interval (1,2 and 4): refda_NAs.R"
+},
+type: "commentCard",
+date: "2018-08-28T15:21:08.754Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b805cca0e29f54fc54bb27c",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "fp41qNOH",
+idShort: 4,
+name: "NSD Analysis (bonepile bears)",
+id: "5b1ead38271cf6520651cd9f"
+},
+text: "calculated fix intervals for all bears: fix_intervals.csv. Need to figure out how to setNAs differently for different bears --> create different traj files for different fix intervals",
+textData: {
+emoji: { }
+},
+dateLastEdited: "2018-08-28T00:19:58.377Z"
+},
+type: "commentCard",
+date: "2018-08-24T19:30:18.645Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b8036ba1a8e3e6a1c10254f",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+checkItem: {
+state: "complete",
+name: "Cut traj for multiyear bursts: 20525, 20529, 20528, 20845",
+id: "5b7f12c780c5a950bfd401bf"
+},
+checklist: {
+name: "TO DO",
+id: "5b7f12abbb25f4597077fa23"
+},
+card: {
+shortLink: "fp41qNOH",
+idShort: 4,
+name: "NSD Analysis (bonepile bears)",
+id: "5b1ead38271cf6520651cd9f"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+}
+},
+type: "updateCheckItemStateOnCard",
+date: "2018-08-24T16:47:54.370Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b7f17888e17f80835c35592",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "fp41qNOH",
+idShort: 4,
+name: "NSD Analysis (bonepile bears)",
+id: "5b1ead38271cf6520651cd9f"
+},
+text: "Need to cut traj into multiyear bursts. Getting a strange error. Emailed Guillaume. Guillaume did a workaround - adehab_prep.R Saved trajectory as a df: pb_traj_df.RData. Can switch back to traj when needed. Updated R. TOMORROW: use ggplot2 to graph NSD using column in traj. ",
+textData: {
+emoji: { }
+},
+dateLastEdited: "2018-08-23T21:47:03.127Z"
+},
+type: "commentCard",
+date: "2018-08-23T20:22:32.177Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b7f12abbb25f4597077fa24",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+checklist: {
+name: "TO DO",
+id: "5b7f12abbb25f4597077fa23"
+},
+card: {
+shortLink: "fp41qNOH",
+idShort: 4,
+name: "NSD Analysis (bonepile bears)",
+id: "5b1ead38271cf6520651cd9f"
+}
+},
+type: "addChecklistToCard",
+date: "2018-08-23T20:01:47.848Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b7f08b4f8e8455086891c50",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+checklist: {
+name: "Questions",
+id: "5b7f08b4f8e8455086891c4f"
+},
+card: {
+shortLink: "6ada07YB",
+idShort: 7,
+name: "Meetings",
+id: "5b7c7a7ed4e6cb422c242abf"
+}
+},
+type: "addChecklistToCard",
+date: "2018-08-23T19:19:16.820Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b7ede5b16938a3f0a3569bb",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "fp41qNOH",
+idShort: 4,
+name: "NSD Analysis (bonepile bears)",
+id: "5b1ead38271cf6520651cd9f"
+},
+text: "cross-checked all.RData with shapefile ows_land_v2. Checks out. Reprojected lat/long to XY (Alaska Albers). Checks out with earlier versions. Subsetted database: ows_land.R ows_land.RData",
+textData: {
+emoji: { }
+},
+dateLastEdited: "2018-08-23T17:26:02.930Z"
+},
+type: "commentCard",
+date: "2018-08-23T16:18:35.459Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b7db5206cd4d21a1191e28e",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "fp41qNOH",
+idShort: 4,
+name: "NSD Analysis (bonepile bears)",
+id: "5b1ead38271cf6520651cd9f"
+},
+text: "Created OWS data frame from 'all': ows.RData script: ows.R TOMORROW: prep data for adehabitat NSD",
+textData: {
+emoji: { }
+},
+dateLastEdited: "2018-08-22T19:12:54.444Z"
+},
+type: "commentCard",
+date: "2018-08-22T19:10:24.617Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b7c900cbb946c2bc0b1210e",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "WIND (from Togunov et al): Downloaded vignettes from rNOMADS using grib and Dods formats. (in Fall_2018). This website is helpful: https://bovineaerospace.wordpress.com/2014/05/28/downloading-weather-sea-ice-and-wave-model-data-with-the-rnomads-package-in-r/ This is a rabbit hole. Maybe format data for NSD analysis before returning to this. "
+},
+type: "commentCard",
+date: "2018-08-21T22:19:56.890Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b7c7a946317ff7e0b69c063",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+checklist: {
+name: "Aug 30",
+id: "5b7c7a946317ff7e0b69c062"
+},
+card: {
+shortLink: "6ada07YB",
+idShort: 7,
+name: "Meetings",
+id: "5b7c7a7ed4e6cb422c242abf"
+}
+},
+type: "addChecklistToCard",
+date: "2018-08-21T20:48:20.984Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b7c7a7ed4e6cb422c242ac0",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+card: {
+shortLink: "6ada07YB",
+idShort: 7,
+name: "Meetings",
+id: "5b7c7a7ed4e6cb422c242abf"
+}
+},
+type: "createCard",
+date: "2018-08-21T20:47:58.108Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b7c73942cc9273008b41fc2",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+checkItem: {
+state: "complete",
+name: "Cross-reference swim data with sea ice data",
+id: "5b6e1db9101ecd7cc11f6cc2"
+},
+checklist: {
+name: "Chicago",
+id: "5b6e1d9fabf7a029d785d1e2"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+}
+},
+type: "updateCheckItemStateOnCard",
+date: "2018-08-21T20:18:28.128Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b7c4ad31f26ae3ecc977725",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "Updated swim.csv in ch1_landing folder and Fall_2018 to reflect correct end.swim dates joined ice data with swim data - R file: swim_ice.R df: swim.ice.RData",
+textData: {
+emoji: { }
+},
+dateLastEdited: "2018-08-21T20:17:08.020Z"
+},
+type: "commentCard",
+date: "2018-08-21T17:24:35.874Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b7c3ca5c061b36502633eb0",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "SEA ICE: top model in Atwood 2016 - FD<=15%, 0.369 beta coeff. & Shelf >15%_wk, -0.515 beta coeff. FD<=15% --> first day of the year when proportion of cont. shelf covered by 15% sea ice decreased to <=15% shelf>15%_wk --> proportion of shelf covered by >15% concentration one week prior "Examination of model coefficients indicated that earlier dates of <15% concentration over the shelf resulted in earlier arrival. Increased availability of >15% concentration sea ice over the shelf resulted in earlier arrival of bears on land." Basically, the signal to come to land is diminishing sea ice, but they want enough ice over the shelf to facilitate the trip to land. This seems consistent anecdotally with the sometimes tortuous paths the bears take to land. They are using sea ice when possible. CHERRY et al best model: date of 30% concentration, # days from 30% to disappearance, interaction (# days is a measurement of how fast ice is melting) similar atwood measurement is OW15% and OW50% - length of open water season",
+textData: {
+emoji: { }
+},
+dateLastEdited: "2018-08-21T16:39:33.661Z"
+},
+type: "commentCard",
+date: "2018-08-21T16:24:05.421Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b7b14033d24bc88c739e3b1",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+checkItem: {
+state: "complete",
+name: "Upload data into R (see below)",
+id: "5b6e1dae7b41d65b8024ee9a"
+},
+checklist: {
+name: "Chicago",
+id: "5b6e1d9fabf7a029d785d1e2"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+}
+},
+type: "updateCheckItemStateOnCard",
+date: "2018-08-20T19:18:27.891Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b7b124dee3feb6b8411a7cc",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "Checked to be sure new large data frame pbears.RData matches subsetted data (e.g. land, swim data). Swim data = perfect. Land data is different by 6 entries. Not sure why, but none are in OWS anyway so probably not a big deal. create_database.R"
+},
+type: "commentCard",
+date: "2018-08-20T19:11:09.927Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b6e1d9fabf7a029d785d1e3",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+checklist: {
+name: "Chicago",
+id: "5b6e1d9fabf7a029d785d1e2"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+}
+},
+type: "addChecklistToCard",
+date: "2018-08-10T23:19:59.592Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b6e1d331e609c86a22c262c",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "Realized that Excel cannot save columns in m/d/y hh:mm:ss format. Would rewrite the seconds every time I saved. So I divided the columns into date (yyy-mm-dd) and time (hh:mm:ss). Double checked data against GGE and drew trajectories when they were missing. NEW FILE: swim.csv. Also took a screenshot Add new swim data to R database and double check that 1's and 0's aligned correctly. From Aung: can save dataframes as .Rdata object so can be instantly uploaded into R without recreating dataframe every time. Try this!"
+},
+type: "commentCard",
+date: "2018-08-10T23:18:11.534Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b6def172fae5929713f314e",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "Compared ArticDEM (2015) to DEM TA used. Moving forward with DEM I already used in ArcGIS, though new DEM is uploaded in script ArcticDEM.js Old DEM lines up better with GGE satellite image - new DEM misses some important barrier islands",
+textData: {
+emoji: { }
+},
+dateLastEdited: "2018-08-10T21:28:55.295Z"
+},
+type: "commentCard",
+date: "2018-08-10T20:01:27.160Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b6cc6984e47d7419ab98c46",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "Checked over landing data and wrote code to add data to database. Times should all be correct. Tomorrow, merge with existing 'all' database. create_database.R"
+},
+type: "commentCard",
+date: "2018-08-09T22:56:24.233Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b6b5712d01e8f6a79032144",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d",
+dueComplete: false
+},
+old: {
+dueComplete: true
+}
+},
+type: "updateCard",
+date: "2018-08-08T20:48:18.698Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b6b56dc0f62931fc6273685",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "fp41qNOH",
+idShort: 4,
+name: "NSD Analysis (bonepile bears)",
+id: "5b1ead38271cf6520651cd9f"
+},
+text: "Compile complete database of points for all open water season for all bears. Will need to double check where land begins for each year (maybe using land.csv)"
+},
+type: "commentCard",
+date: "2018-08-08T20:47:24.031Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b6b567431500b570af10553",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d",
+dueComplete: true
+},
+old: {
+dueComplete: false
+}
+},
+type: "updateCard",
+date: "2018-08-08T20:45:40.075Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b6b56667c5d13180b0fd7f1",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "Went through first few entries. Data OK as is. Can compile trajectories from adehabitat using these dates. Add these start/end dates to main database in R. ",
+textData: {
+emoji: { }
+},
+dateLastEdited: "2018-08-08T20:48:09.228Z"
+},
+type: "commentCard",
+date: "2018-08-08T20:45:26.227Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b6b410d066d9e434a9ff827",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "More display ideas: export all trajectories (lines on GGE) and display on one map"
+},
+type: "commentCard",
+date: "2018-08-08T19:14:21.881Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b5f9da4b191e16cb67370b3",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "Completed data gathering for landing analysis. Re-check and draw trajectories. Meet with Stewart and George to go over paths and talk about how to analyze data. Next step: look into NSD analysis "
+},
+type: "commentCard",
+date: "2018-07-30T23:22:12.144Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b5e015c30702a6ad43c9d34",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "Realized the 'bands' listed by GGE are not always in order. Should double check with main database to determine first/last times for all points in Landing Analysis. On a similar note, first entry in 21days is not always the correct landfall. Double check with GGE. Revising 'land' determination from 21 days to 7 days, per Atwood et al. 2016. Start with pb_20529 on Monday",
+textData: {
+emoji: { }
+},
+dateLastEdited: "2018-07-29T22:24:53.253Z"
+},
+type: "commentCard",
+date: "2018-07-29T18:03:08.002Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b5b8ef161a4541948442a62",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "Workflow: 21days.csv - scroll through and ID beginning of 21 day stint on land. Use script in Landfall_GEE_script2.js to copy and paste into GGE. Visualize and record results in Landing.csv. Begin Monday with pb_20520. ",
+textData: {
+emoji: { }
+},
+dateLastEdited: "2018-07-27T21:30:44.291Z"
+},
+type: "commentCard",
+date: "2018-07-27T21:30:25.210Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b5b423584af2e86ac1b6ec8",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "FIgured out issue. Was a coding mistake. All is well with datasets. Also figured out error in GR code. It works! ",
+textData: {
+emoji: { }
+},
+dateLastEdited: "2018-07-27T16:54:49.987Z"
+},
+type: "commentCard",
+date: "2018-07-27T16:03:01.966Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b5a4edc21df754a389cc27f",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "pb_20492 - see whether same exact poitns are in both August and September. Strange things happening in script pb_20492 in GGE. Same exact points showing up for Aug and Sept. "
+},
+type: "commentCard",
+date: "2018-07-26T22:44:44.123Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b5a270196bfc7a0ea7c38bc",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "Realized I need to subset my land animals by >= 21 days. Guillaume designed a loop which will only keep one time per day and counts consecutive days on land. 21days.R 21days.csv",
+textData: {
+emoji: { }
+},
+dateLastEdited: "2018-07-26T21:36:15.338Z"
+},
+type: "commentCard",
+date: "2018-07-26T19:54:41.706Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b58a5a0419455329d28c77e",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "Realized pb_32366 has data from multiple years. Recorded data for 2011 and 2014. No data from OWS for 1012, 2013 or 2015.",
+textData: {
+emoji: { }
+},
+dateLastEdited: "2018-07-25T18:49:16.660Z"
+},
+type: "commentCard",
+date: "2018-07-25T16:30:24.176Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b57aea19462d4dfa998639c",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "Did not finish pb_20529. Looks like it's following the ice over the shelf and then swimming back. Figure out how to call land. "
+},
+type: "commentCard",
+date: "2018-07-24T22:56:33.149Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b57ae6f3d9a2408d2c68601",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+checklist: {
+name: "TO DO",
+id: "5b5776d7daa261e819cf22b4"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+}
+},
+type: "removeChecklistFromCard",
+date: "2018-07-24T22:55:43.668Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b5776d7daa261e819cf22b5",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+checklist: {
+name: "TO DO",
+id: "5b5776d7daa261e819cf22b4"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+}
+},
+type: "addChecklistToCard",
+date: "2018-07-24T18:58:31.136Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b576468249b33a7bece2fa8",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+checklist: {
+name: "TO DO",
+id: "5b57644a14187ba2c8d51dd9"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+}
+},
+type: "removeChecklistFromCard",
+date: "2018-07-24T17:39:52.140Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b57644a14187ba2c8d51dda",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+checklist: {
+name: "TO DO",
+id: "5b57644a14187ba2c8d51dd9"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+}
+},
+type: "addChecklistToCard",
+date: "2018-07-24T17:39:22.260Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b57643d3b08b249d6e6c373",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+checklist: {
+id: "5b476a95293edf0658199d3d",
+name: "LANDING ANALYSIS"
+},
+old: {
+name: "TO DO"
+}
+},
+type: "updateChecklist",
+date: "2018-07-24T17:39:09.770Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b5761508dfc59681badd60f",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "Coded a color ramp into GGE. Website with HTML color groups: https://www.w3schools.com/colors/colors_groups.asp Landing Analysis/example code Analysis of wind direction is somewhat complicated (see Togunov et al 2017). Leaving for last part of this analysis. Landfall.csv",
+textData: {
+emoji: { }
+},
+dateLastEdited: "2018-07-24T22:20:50.188Z"
+},
+type: "commentCard",
+date: "2018-07-24T17:26:40.101Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b564dcf663268ca888ee32a",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "AMSR-E (6.25 km resolution; data up to October 2011): http://www.iup.uni-bremen.de:8084/amsr/ SSMI (similar to AMSR-E, but available to the present): http://iup.physik.uni-bremen.de:8084/ssmis/ NIC (ice stage development): http://www.natice.noaa.gov/products/weekly_products.html Checked out #1 on this list...amazing. Exactly what I was looking for. Now figuring out whether this analysis is better done in GEE or ArcGIS"
+},
+type: "commentCard",
+date: "2018-07-23T21:51:11.471Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b5634afda7121b8171e86da",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "TO DO: check out resources TA sent in email. Continue forging ahead on landing analysis. "
+},
+type: "commentCard",
+date: "2018-07-23T20:03:59.041Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b5244d78c1b6b5a40c7b9cd",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "Phone meeting with Todd. No guidance on satellite imagery, said to look at data in email sent today, after meeting (7/20/18). Capture most likely happening. No family. Someone responded to my email about sat images in GGE forum. Suggested Sentinel-1 for 2014-15 and MODIS before that. Linked an explanation of sea ice specific usage. VERY HELPFUL. ",
+textData: {
+emoji: { }
+},
+dateLastEdited: "2018-07-20T21:56:30.552Z"
+},
+type: "commentCard",
+date: "2018-07-20T20:23:51.030Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b5201264d3be30489ea3ad0",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+checkItem: {
+state: "complete",
+name: "Upload individual trajectories for all_ows, ows_land, and sat images from all years with data",
+id: "5b4fc26c415808bd5f65fd8b"
+},
+checklist: {
+name: "TO DO",
+id: "5b476a95293edf0658199d3d"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+}
+},
+type: "updateCheckItemStateOnCard",
+date: "2018-07-20T15:35:02.924Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b510649150b141e329d95d5",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "Played around with GEE. Should abandon LANDSAT strategy. Photographs are not high enough quality. Scripts can be found on GEE in users/akellner/PhD/Landing Analysis. Looked at two months in 2011, June and Aug (one bear in each). TAKEAWAY: LANDSAT doesn't work. Swim might be possible to observe but requires some guesswork unless I can get shapefiles, etc. of pack ice. NEXT STEPS: Try getting a satellite image of land v. water using Sentinel "
+},
+type: "commentCard",
+date: "2018-07-19T21:44:41.784Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b4fc21911b6737e000eab94",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d",
+desc: "Check E to W extent; starting locs; distances swum; bearing swim-to-landing; coorelations between longitudinal starting points v. landing points; random v. clustered landing locations; differences in landing locations between bonepile bears and natural bears (need NSD analysis); wind direction and speed during migration; sea ice characteristics during migration"
+},
+old: {
+desc: ""
+}
+},
+type: "updateCard",
+date: "2018-07-18T22:41:29.269Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b4fc14de3fe4ee416dfb6ae",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+checkItem: {
+state: "complete",
+name: "Change time in GEE",
+id: "5b4fbf31249c5276e07fdeec"
+},
+checklist: {
+name: "TO DO",
+id: "5b476a95293edf0658199d3d"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+}
+},
+type: "updateCheckItemStateOnCard",
+date: "2018-07-18T22:38:05.642Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b4fbf204a3d8dc2bc8c9862",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+checkItem: {
+state: "complete",
+name: "import .kml into GEE and check against satellite imagery",
+id: "5b4e5d4a1c064b168f5a08ea"
+},
+checklist: {
+name: "TO DO",
+id: "5b476a95293edf0658199d3d"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+}
+},
+type: "updateCheckItemStateOnCard",
+date: "2018-07-18T22:28:48.662Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b4fbf179c9da8818f9c6bcc",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "Imported ows_all_v2 into GEE. Learned to subset (see Landfall script). Downloaded some example years to see whether I can distinguish ice from land. Visually checking date.begin (traj) just to explore what a swim-to-landing might look like. Vincent: Sentinel is better than LANDSAT but only available after 2015. Date is correct in all_ows_v2 object, but not decipherable in landfall object (traj summary)",
+textData: {
+emoji: { }
+},
+dateLastEdited: "2018-07-18T22:39:51.231Z"
+},
+type: "commentCard",
+date: "2018-07-18T22:28:39.107Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b4e5d33afdecf11473fc3d4",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "Created a .shp in ArcGIS with landfall points based on traj begin.date. Exported to .kml to view in Google Earth Engine. Successful code from Guillaume in landfall_loop.R "
+},
+type: "commentCard",
+date: "2018-07-17T21:18:43.011Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b4e5cdc50b50ed4d96833d0",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+checkItem: {
+state: "complete",
+name: "Subset starting locations and view on ArcGIS. Check east-to-west extent.",
+id: "5b49241ecfff44c7f2c0d47f"
+},
+checklist: {
+name: "TO DO",
+id: "5b476a95293edf0658199d3d"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+}
+},
+type: "updateCheckItemStateOnCard",
+date: "2018-07-17T21:17:16.054Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b4d233fee401a93a4e20114",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "Trying to subset larger ows/land based on date.begin in traj file. csv file is annoying with date/time format so going to recreate traj as ld (?) and use dataframe from there. Then, run loop per Vincent (starting with trial to see whether code works). See photo on phone of code for loop. "
+},
+type: "commentCard",
+date: "2018-07-16T22:59:11.765Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b49249f061f165426df124c",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "After subsetting and viewing starting locations, do NSD analysis. "
+},
+type: "commentCard",
+date: "2018-07-13T22:15:59.799Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b4923b81a6a3fa295689eb9",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+checkItem: {
+state: "complete",
+name: "AdehabitatLT for start of bursts",
+id: "5b476ab68076ee2e6502f6ee"
+},
+checklist: {
+name: "TO DO",
+id: "5b476a95293edf0658199d3d"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+}
+},
+type: "updateCheckItemStateOnCard",
+date: "2018-07-13T22:12:08.767Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b4921705cf22216002bffdc",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "Traj summary worked! File= "traj_summary_v1.csv". No duplicates. "
+},
+type: "commentCard",
+date: "2018-07-13T22:02:24.402Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b492156c0444a60e3c94677",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "AdnkEjDD",
+idShort: 1,
+name: "Land Designation",
+id: "5ab586b2e870032defab94f1",
+dueComplete: true
+},
+old: {
+dueComplete: false
+}
+},
+type: "updateCard",
+date: "2018-07-13T22:01:58.646Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b49108409fcc0986784d816",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "AdnkEjDD",
+idShort: 1,
+name: "Land Designation",
+id: "5ab586b2e870032defab94f1"
+},
+text: "Pared down original TA database in R (rather than ArcGIS). Projected to Alaska Albers in R. See file= "ows_v2_R.R". New shapefile is "all_ows_v2.shp". R -> Chapter1 -> Output traj summary worked! no duplicates. File = "traj_summary_v1.csv"",
+textData: {
+emoji: { }
+},
+dateLastEdited: "2018-07-13T22:01:56.370Z"
+},
+type: "commentCard",
+date: "2018-07-13T20:50:12.432Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b48f326c5cc85282fb579b2",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+checklist: {
+name: "TO DO - Land Designation 2",
+id: "5b48f326c5cc85282fb579b1"
+},
+card: {
+shortLink: "AdnkEjDD",
+idShort: 1,
+name: "Land Designation",
+id: "5ab586b2e870032defab94f1"
+}
+},
+type: "addChecklistToCard",
+date: "2018-07-13T18:44:54.227Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b48f2ea4bf933c3084a11c1",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "AdnkEjDD",
+idShort: 1,
+name: "Land Designation",
+id: "5ab586b2e870032defab94f1",
+dueComplete: false
+},
+old: {
+dueComplete: true
+}
+},
+type: "updateCard",
+date: "2018-07-13T18:43:54.399Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b48d309bc9ff0a24a4ac517",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "Troubleshooting duplicates: not in original data ("troubleshoot_duplicate_datetimes.r")"
+},
+type: "commentCard",
+date: "2018-07-13T16:27:53.180Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b479fda19c000684a1a8d3f",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+},
+text: "Adehabitat unable to create traj file due to non-unique datetimes. Cross-checked duplicates with GPS sheet sent by Todd. Looks like duplicates occur when animal doesn't move (distance and rate = 0). Checked against pb_20598. Need to see if this patterns is repeated using another example. ",
+textData: {
+emoji: { }
+},
+dateLastEdited: "2018-07-12T19:18:36.123Z"
+},
+type: "commentCard",
+date: "2018-07-12T18:37:14.297Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b476a95293edf0658199d3e",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+checklist: {
+name: "TO DO",
+id: "5b476a95293edf0658199d3d"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+}
+},
+type: "addChecklistToCard",
+date: "2018-07-12T14:49:57.806Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b465b3dca7b9c7ca0fe76bc",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "AdnkEjDD",
+idShort: 1,
+name: "Land Designation",
+id: "5ab586b2e870032defab94f1",
+dueComplete: true
+},
+old: {
+dueComplete: false
+}
+},
+type: "updateCard",
+date: "2018-07-11T19:32:13.671Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b465b341114f6f93c7c25b6",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "AdnkEjDD",
+idShort: 1,
+name: "Land Designation",
+id: "5ab586b2e870032defab94f1"
+},
+text: "Trouble with GitHub - accidentally attempted to push .dbf and .csv files that are too large. Created new repository with final versions called Ch1_Land. Older versions can be found in the Chapter1 repo. "
+},
+type: "commentCard",
+date: "2018-07-11T19:32:04.222Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b451b67beb7168f1e387ca9",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "AdnkEjDD",
+idShort: 1,
+name: "Land Designation",
+id: "5ab586b2e870032defab94f1"
+},
+text: "Created shapefile for all land points within study area within OWS (used clip fxn). OWS_complete_v1_LAND. "
+},
+type: "commentCard",
+date: "2018-07-10T20:47:35.373Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b451b148f74694876651046",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+checkItem: {
+state: "complete",
+name: "Create file for land-only OWS points",
+id: "5b22e5a2784cbab8c251ff10"
+},
+checklist: {
+name: "TO DO",
+id: "5b2197944f7a9b7e45f194ae"
+},
+card: {
+shortLink: "AdnkEjDD",
+idShort: 1,
+name: "Land Designation",
+id: "5ab586b2e870032defab94f1"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+}
+},
+type: "updateCheckItemStateOnCard",
+date: "2018-07-10T20:46:12.998Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b451b1113f1af251021d434",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+checkItem: {
+state: "complete",
+name: "find all land locations for AK and CA. Do by year so can adjust for differences in OWS. ",
+id: "5b2197b359ade138cf87b70b"
+},
+checklist: {
+name: "TO DO",
+id: "5b2197944f7a9b7e45f194ae"
+},
+card: {
+shortLink: "AdnkEjDD",
+idShort: 1,
+name: "Land Designation",
+id: "5ab586b2e870032defab94f1"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+}
+},
+type: "updateCheckItemStateOnCard",
+date: "2018-07-10T20:46:09.843Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b3676e3961d0225a0f16082",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "AdnkEjDD",
+idShort: 1,
+name: "Land Designation",
+id: "5ab586b2e870032defab94f1"
+},
+text: "Deleted NA's. New file = OWS_all_noNA.csv. Created rectangle to clip land locations for AK and western CA Todd sent ice data through 2017: C:\Users\akell\Desktop\Summer_2018\Research\Land_Designation\sbs_daily_icestats_1979_2017_v4_dcd Merged 2004 - 2013 data with 2014-2016. Removed NA's. File: ows_complete_v1.csv ",
+textData: {
+emoji: { }
+},
+dateLastEdited: "2018-06-29T23:05:22.048Z"
+},
+type: "commentCard",
+date: "2018-06-29T18:13:55.008Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b3676c51c85cb74d4a2bb32",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+checkItem: {
+state: "complete",
+name: "Delete NA's from OWS_all_datetime.csv",
+id: "5b22e6df9bd3f4f9f93136ac"
+},
+checklist: {
+name: "TO DO",
+id: "5b2197944f7a9b7e45f194ae"
+},
+card: {
+shortLink: "AdnkEjDD",
+idShort: 1,
+name: "Land Designation",
+id: "5ab586b2e870032defab94f1"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+}
+},
+type: "updateCheckItemStateOnCard",
+date: "2018-06-29T18:13:25.308Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b22e54af33bd9d2007a120f",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "AdnkEjDD",
+idShort: 1,
+name: "Land Designation",
+id: "5ab586b2e870032defab94f1"
+},
+text: "merged OWS data from GIS (all OWS by year, merged) with TA original data to add datetime formatted for adehabitatLT. merge_GIS_TA.R = code OWS_all_datetime.csv = file "
+},
+type: "commentCard",
+date: "2018-06-14T21:59:38.364Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b22ae757afa859afb1e8b9b",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "AdnkEjDD",
+idShort: 1,
+name: "Land Designation",
+id: "5ab586b2e870032defab94f1"
+},
+text: "Had to reformat date to yyyy-mm-dd in order to be read by SQL in query in GIS. Created new shapefile all_loc_ymd in 'Location Data' folder. "
+},
+type: "commentCard",
+date: "2018-06-14T18:05:41.724Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b2197944f7a9b7e45f194af",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+checklist: {
+name: "TO DO",
+id: "5b2197944f7a9b7e45f194ae"
+},
+card: {
+shortLink: "AdnkEjDD",
+idShort: 1,
+name: "Land Designation",
+id: "5ab586b2e870032defab94f1"
+}
+},
+type: "addChecklistToCard",
+date: "2018-06-13T22:15:48.401Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b21978e55d224118e3ac57d",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "AdnkEjDD",
+idShort: 1,
+name: "Land Designation",
+id: "5ab586b2e870032defab94f1"
+},
+text: "Created new map called Polar_Bears.mxd. Merged AK with CA polygons with 5k buffers so can call "land" points within both areas. "
+},
+type: "commentCard",
+date: "2018-06-13T22:15:42.581Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b1ead9f72af090d6870fbb4",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "KQiwYrq6",
+idShort: 6,
+name: "Summarize Movement & States",
+id: "5b1ead96fc0d996cded6b895",
+due: "2018-07-20T23:00:00.000Z"
+},
+old: {
+due: null
+}
+},
+type: "updateCard",
+date: "2018-06-11T17:13:03.949Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b1ead96fc0d996cded6b896",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+card: {
+shortLink: "KQiwYrq6",
+idShort: 6,
+name: "Summarize Movement & States",
+id: "5b1ead96fc0d996cded6b895"
+}
+},
+type: "createCard",
+date: "2018-06-11T17:12:54.863Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b1ead81758c683e2adebcfa",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "l1EQMWEK",
+idShort: 5,
+name: "HR and Core Area Analysis",
+id: "5b1ead75304f91f5932d924a",
+due: "2018-07-13T23:00:00.000Z"
+},
+old: {
+due: null
+}
+},
+type: "updateCard",
+date: "2018-06-11T17:12:33.017Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b1ead75304f91f5932d924b",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+card: {
+shortLink: "l1EQMWEK",
+idShort: 5,
+name: "HR and Core Area Analysis",
+id: "5b1ead75304f91f5932d924a"
+}
+},
+type: "createCard",
+date: "2018-06-11T17:12:21.405Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b1ead520d7ded2dfb313266",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "fp41qNOH",
+idShort: 4,
+name: "NSD Analysis (bonepile bears)",
+id: "5b1ead38271cf6520651cd9f",
+due: "2018-06-29T23:00:00.000Z"
+},
+old: {
+due: null
+}
+},
+type: "updateCard",
+date: "2018-06-11T17:11:46.880Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b1ead460918f9e7450f3fbc",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d",
+due: "2018-06-22T23:00:00.000Z"
+},
+old: {
+due: null
+}
+},
+type: "updateCard",
+date: "2018-06-11T17:11:34.301Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b1ead38271cf6520651cda0",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+card: {
+shortLink: "fp41qNOH",
+idShort: 4,
+name: "NSD Analysis (bonepile bears)",
+id: "5b1ead38271cf6520651cd9f"
+}
+},
+type: "createCard",
+date: "2018-06-11T17:11:20.798Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b1ead2643bf0cef40e7578f",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+card: {
+shortLink: "VzhEpNkW",
+idShort: 3,
+name: "Landing Time and Location",
+id: "5b1ead2643bf0cef40e7578d"
+}
+},
+type: "createCard",
+date: "2018-06-11T17:11:02.743Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b1ead0b0e0eec796023f90b",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "AdnkEjDD",
+idShort: 1,
+name: "Land Designation",
+id: "5ab586b2e870032defab94f1",
+due: "2018-06-15T23:00:00.000Z"
+},
+old: {
+due: "2018-06-15T18:00:00.000Z"
+}
+},
+type: "updateCard",
+date: "2018-06-11T17:10:35.472Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b1eacf4f9c958b509ed38c4",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "AdnkEjDD",
+idShort: 1,
+name: "Land Designation",
+id: "5ab586b2e870032defab94f1",
+due: "2018-06-15T18:00:00.000Z"
+},
+old: {
+due: null
+}
+},
+type: "updateCard",
+date: "2018-06-11T17:10:12.639Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b1ea9bd749c348244292313",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+list: {
+name: "GIS",
+id: "5ab586a65b084fceacd02366",
+closed: true
+},
+old: {
+closed: false
+}
+},
+type: "updateList",
+date: "2018-06-11T16:56:29.276Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b1ea9b075f31b547303e990",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+listAfter: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+listBefore: {
+name: "GIS",
+id: "5ab586a65b084fceacd02366"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "AdnkEjDD",
+idShort: 1,
+name: "Land Designation",
+id: "5ab586b2e870032defab94f1",
+idList: "5b1ea99d783a0135836aad89"
+},
+old: {
+idList: "5ab586a65b084fceacd02366"
+}
+},
+type: "updateCard",
+date: "2018-06-11T16:56:16.567Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b1ea99d783a0135836aad8a",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+}
+},
+type: "createList",
+date: "2018-06-11T16:55:57.137Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5afa0f386f762a843bc09049",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "GIS",
+id: "5ab586a65b084fceacd02366"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "AdnkEjDD",
+idShort: 1,
+name: "Land Designation",
+id: "5ab586b2e870032defab94f1"
+},
+text: "Changing definition for Open Water Season to mean concentration <=50%. See emails from TA 5/14/18. Ice data goes through 2013 - TA is asking for data to be updated through 2017. Table is in OneNote under PB Research --> Chapter 1 Select points within OWS in a given year within ArcGIS. Selection -> Select by Attribute -> Layer: all_loc_ymd -> "date_ymd" >= 'XXXX-XX-XX' etc. Then right-click on layer in ToC -> Data-> Export -> Selected. OWS files in C:\Users\akell\Documents\ArcGIS\Polar_Bears_GIS\Location Data",
+textData: {
+emoji: { }
+},
+dateLastEdited: "2018-06-29T21:35:15.356Z"
+},
+type: "commentCard",
+date: "2018-05-14T22:35:36.858Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5af0e36a3910afe849a22f50",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "Summarize Movement",
+id: "5af0e349d8caace965e55c05"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "SruGrt2E",
+idShort: 2,
+name: "FW 477 labs",
+id: "5af0e352179c0b9e2e419fdc"
+},
+text: "Try to go through lab3 but put files in project directory"
+},
+type: "commentCard",
+date: "2018-05-07T23:38:18.877Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5af0e352179c0b9e2e419fdd",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+list: {
+name: "Summarize Movement",
+id: "5af0e349d8caace965e55c05"
+},
+card: {
+shortLink: "SruGrt2E",
+idShort: 2,
+name: "FW 477 labs",
+id: "5af0e352179c0b9e2e419fdc"
+}
+},
+type: "createCard",
+date: "2018-05-07T23:37:54.755Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5af0e349d8caace965e55c06",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+list: {
+name: "Summarize Movement",
+id: "5af0e349d8caace965e55c05"
+}
+},
+type: "createList",
+date: "2018-05-07T23:37:45.874Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5ae8d1aea4b8c988b7816fd0",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "GIS",
+id: "5ab586a65b084fceacd02366"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "AdnkEjDD",
+idShort: 1,
+name: "Land Designation",
+id: "5ab586b2e870032defab94f1"
+},
+text: "Concatenated ymd_hms and formatted for adehabitatLT. Doc: Land_data_explore.R Helpful website: http://daniellequinn.github.io/RLessons/FormattingDates/FormattingDates.html",
+textData: {
+emoji: { }
+},
+dateLastEdited: "2018-05-01T20:45:13.962Z"
+},
+type: "commentCard",
+date: "2018-05-01T20:44:30.460Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5ae8d183a60da080047edf5b",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+checkItem: {
+state: "complete",
+name: "Convert lat/long to UTM in order to use with adehabitatLT",
+id: "5ae37be65f0a2aa8119d17c6"
+},
+checklist: {
+name: "TO DO",
+id: "5ae20d9ac49239d9088ae8bf"
+},
+card: {
+shortLink: "AdnkEjDD",
+idShort: 1,
+name: "Land Designation",
+id: "5ab586b2e870032defab94f1"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+}
+},
+type: "updateCheckItemStateOnCard",
+date: "2018-05-01T20:43:47.888Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5ae37bcf58d0ded697c8d25d",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "GIS",
+id: "5ab586a65b084fceacd02366"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "AdnkEjDD",
+idShort: 1,
+name: "Land Designation",
+id: "5ab586b2e870032defab94f1"
+},
+text: "Updated R and R studio. Downloaded adehabitat package. See Guillaume email for code to get started. "
+},
+type: "commentCard",
+date: "2018-04-27T19:36:47.100Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5ae37bcdad22f4bd4f1ae4ea",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+checkItem: {
+state: "complete",
+name: "Summarize .dbf file from land points using table or dplyr in R",
+id: "5ae20daa6881bb9e4c4e145e"
+},
+checklist: {
+name: "TO DO",
+id: "5ae20d9ac49239d9088ae8bf"
+},
+card: {
+shortLink: "AdnkEjDD",
+idShort: 1,
+name: "Land Designation",
+id: "5ab586b2e870032defab94f1"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+}
+},
+type: "updateCheckItemStateOnCard",
+date: "2018-04-27T19:36:45.685Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5ae20d9ac49239d9088ae8c0",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+checklist: {
+name: "TO DO",
+id: "5ae20d9ac49239d9088ae8bf"
+},
+card: {
+shortLink: "AdnkEjDD",
+idShort: 1,
+name: "Land Designation",
+id: "5ab586b2e870032defab94f1"
+}
+},
+type: "addChecklistToCard",
+date: "2018-04-26T17:34:18.940Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5ae20d8d9a4b49da5694754a",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "GIS",
+id: "5ab586a65b084fceacd02366"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "AdnkEjDD",
+idShort: 1,
+name: "Land Designation",
+id: "5ab586b2e870032defab94f1"
+},
+text: "Finished git slides. For reference: http://libguides.colostate.edu/coding-cookies/git"
+},
+type: "commentCard",
+date: "2018-04-26T17:34:05.162Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5ae0ff9824e6889cc3c8eda7",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "GIS",
+id: "5ab586a65b084fceacd02366"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "AdnkEjDD",
+idShort: 1,
+name: "Land Designation",
+id: "5ab586b2e870032defab94f1"
+},
+text: "Went through first part of coding and cookies to set up GitHub repository so can use version control. R project is called Chapter1 and is located in GIS folder. Maybe create new folder entitled R? Got through slide 33. Continue tomorrow.",
+textData: {
+emoji: { }
+},
+dateLastEdited: "2018-04-25T22:23:14.897Z"
+},
+type: "commentCard",
+date: "2018-04-25T22:22:16.746Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5ab96d9750632f07c9788aa8",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "GIS",
+id: "5ab586a65b084fceacd02366"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "AdnkEjDD",
+idShort: 1,
+name: "Land Designation",
+id: "5ab586b2e870032defab94f1"
+},
+text: "selected land locations -> using package "foreign" in R to read .dbf file generated from ArcGIS. land_data_explore.R"
+},
+type: "commentCard",
+date: "2018-03-26T22:00:55.404Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5ab586e5ca296d040bf5f808",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "GIS",
+id: "5ab586a65b084fceacd02366"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "AdnkEjDD",
+idShort: 1,
+name: "Land Designation",
+id: "5ab586b2e870032defab94f1"
+},
+text: "successfully converted DEM to polygon (r2p_nodata). Was unable to add a 5k buffer. Try again Monday. "
+},
+type: "commentCard",
+date: "2018-03-23T22:59:49.163Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5ab586bf519637e26ad69df6",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "GIS",
+id: "5ab586a65b084fceacd02366"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "AdnkEjDD",
+idShort: 1,
+name: "Land Designation",
+id: "5ab586b2e870032defab94f1",
+desc: "Determining which GPS points are on land"
+},
+old: {
+desc: ""
+}
+},
+type: "updateCard",
+date: "2018-03-23T22:59:11.695Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5ab586b2e870032defab94f2",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+list: {
+name: "GIS",
+id: "5ab586a65b084fceacd02366"
+},
+card: {
+shortLink: "AdnkEjDD",
+idShort: 1,
+name: "Land Designation",
+id: "5ab586b2e870032defab94f1"
+}
+},
+type: "createCard",
+date: "2018-03-23T22:58:58.152Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5ab586a65b084fceacd02367",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+list: {
+name: "GIS",
+id: "5ab586a65b084fceacd02366"
+}
+},
+type: "createList",
+date: "2018-03-23T22:58:46.080Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5ab5869d9a87c94a1948abfa",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+}
+},
+type: "createBoard",
+date: "2018-03-23T22:58:37.802Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+}
+],
+cards: [
+{
+id: "5af0e352179c0b9e2e419fdc",
+checkItemStates: null,
+closed: false,
+creationMethod: null,
+dateLastActivity: "2018-05-07T23:38:18.875Z",
+desc: "",
+descData: null,
+idBoard: "5ab5869d9a87c94a1948abf8",
+idList: "5af0e349d8caace965e55c05",
+idMembersVoted: [ ],
+idShort: 2,
+idAttachmentCover: null,
+limits: {
+attachments: {
+perCard: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+}
+},
+checklists: {
+perCard: {
+status: "ok",
+disableAt: 475,
+warnAt: 450
+}
+},
+stickers: {
+perCard: {
+status: "ok",
+disableAt: 67,
+warnAt: 63
+}
+}
+},
+idLabels: [ ],
+manualCoverAttachment: false,
+name: "FW 477 labs",
+pos: 65535,
+shortLink: "SruGrt2E",
+badges: {
+votes: 0,
+attachmentsByType: {
+trello: {
+board: 0,
+card: 0
+}
+},
+viewingMemberVoted: false,
+subscribed: false,
+fogbugz: "",
+checkItems: 0,
+checkItemsChecked: 0,
+comments: 1,
+attachments: 0,
+description: false,
+due: null,
+dueComplete: false
+},
+dueComplete: false,
+due: null,
+email: "anniekellner+2pebcc3utxxkmum18uv+2q8dr6kkqmt4zyudqzg+1jggcauum1@boards.trello.com",
+idChecklists: [ ],
+idMembers: [ ],
+labels: [ ],
+shortUrl: "https://trello.com/c/SruGrt2E",
+subscribed: false,
+url: "https://trello.com/c/SruGrt2E/2-fw-477-labs",
+attachments: [ ],
+pluginData: [ ],
+customFieldItems: [ ]
+},
+{
+id: "5ab586b2e870032defab94f1",
+checkItemStates: null,
+closed: false,
+creationMethod: null,
+dateLastActivity: "2018-07-13T22:01:58.642Z",
+desc: "Determining which GPS points are on land",
+descData: {
+emoji: { }
+},
+idBoard: "5ab5869d9a87c94a1948abf8",
+idList: "5b1ea99d783a0135836aad89",
+idMembersVoted: [ ],
+idShort: 1,
+idAttachmentCover: null,
+limits: {
+attachments: {
+perCard: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+}
+},
+checklists: {
+perCard: {
+status: "ok",
+disableAt: 475,
+warnAt: 450
+}
+},
+stickers: {
+perCard: {
+status: "ok",
+disableAt: 67,
+warnAt: 63
+}
+}
+},
+idLabels: [ ],
+manualCoverAttachment: false,
+name: "Land Designation",
+pos: 65535,
+shortLink: "AdnkEjDD",
+badges: {
+votes: 0,
+attachmentsByType: {
+trello: {
+board: 0,
+card: 0
+}
+},
+viewingMemberVoted: false,
+subscribed: false,
+fogbugz: "",
+checkItems: 5,
+checkItemsChecked: 5,
+comments: 14,
+attachments: 0,
+description: true,
+due: "2018-06-15T23:00:00.000Z",
+dueComplete: true
+},
+dueComplete: true,
+due: "2018-06-15T23:00:00.000Z",
+email: "anniekellner+2pebcc3utxxkmum18uv+2pzd50wjjo9i156s5ip+13t0is39av@boards.trello.com",
+idChecklists: [
+"5ae20d9ac49239d9088ae8bf",
+"5b2197944f7a9b7e45f194ae",
+"5b48f326c5cc85282fb579b1"
+],
+idMembers: [ ],
+labels: [ ],
+shortUrl: "https://trello.com/c/AdnkEjDD",
+subscribed: false,
+url: "https://trello.com/c/AdnkEjDD/1-land-designation",
+attachments: [ ],
+pluginData: [ ],
+customFieldItems: [ ]
+},
+{
+id: "5b1ead2643bf0cef40e7578d",
+checkItemStates: null,
+closed: false,
+creationMethod: null,
+dateLastActivity: "2018-09-28T18:43:13.092Z",
+desc: "Check E to W extent; starting locs; distances swum; bearing swim-to-landing; coorelations between longitudinal starting points v. landing points; random v. clustered landing locations; differences in landing locations between bonepile bears and natural bears (need NSD analysis); wind direction and speed during migration; sea ice characteristics during migration",
+descData: {
+emoji: { }
+},
+idBoard: "5ab5869d9a87c94a1948abf8",
+idList: "5b1ea99d783a0135836aad89",
+idMembersVoted: [ ],
+idShort: 3,
+idAttachmentCover: null,
+limits: {
+attachments: {
+perCard: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+}
+},
+checklists: {
+perCard: {
+status: "ok",
+disableAt: 475,
+warnAt: 450
+}
+},
+stickers: {
+perCard: {
+status: "ok",
+disableAt: 67,
+warnAt: 63
+}
+}
+},
+idLabels: [ ],
+manualCoverAttachment: false,
+name: "Landing Time and Location",
+pos: 131071,
+shortLink: "VzhEpNkW",
+badges: {
+votes: 0,
+attachmentsByType: {
+trello: {
+board: 0,
+card: 0
+}
+},
+viewingMemberVoted: false,
+subscribed: true,
+fogbugz: "",
+checkItems: 16,
+checkItemsChecked: 9,
+comments: 42,
+attachments: 0,
+description: true,
+due: "2018-06-22T23:00:00.000Z",
+dueComplete: false
+},
+dueComplete: false,
+due: "2018-06-22T23:00:00.000Z",
+email: "anniekellner+2pebcc3utxxkmum18uv+2qfc58fr58eudxes7m5+10x3i9ehyv@boards.trello.com",
+idChecklists: [
+"5b476a95293edf0658199d3d",
+"5b6e1d9fabf7a029d785d1e2",
+"5ba575e2e732194cfb152848"
+],
+idMembers: [ ],
+labels: [ ],
+shortUrl: "https://trello.com/c/VzhEpNkW",
+subscribed: true,
+url: "https://trello.com/c/VzhEpNkW/3-landing-time-and-location",
+attachments: [ ],
+pluginData: [ ],
+customFieldItems: [ ]
+},
+{
+id: "5b1ead38271cf6520651cd9f",
+checkItemStates: null,
+closed: false,
+creationMethod: null,
+dateLastActivity: "2018-08-29T17:55:44.969Z",
+desc: "",
+descData: null,
+idBoard: "5ab5869d9a87c94a1948abf8",
+idList: "5b1ea99d783a0135836aad89",
+idMembersVoted: [ ],
+idShort: 4,
+idAttachmentCover: null,
+limits: {
+attachments: {
+perCard: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+}
+},
+checklists: {
+perCard: {
+status: "ok",
+disableAt: 475,
+warnAt: 450
+}
+},
+stickers: {
+perCard: {
+status: "ok",
+disableAt: 67,
+warnAt: 63
+}
+}
+},
+idLabels: [ ],
+manualCoverAttachment: false,
+name: "NSD Analysis (bonepile bears)",
+pos: 196607,
+shortLink: "fp41qNOH",
+badges: {
+votes: 0,
+attachmentsByType: {
+trello: {
+board: 0,
+card: 0
+}
+},
+viewingMemberVoted: false,
+subscribed: true,
+fogbugz: "",
+checkItems: 1,
+checkItemsChecked: 1,
+comments: 8,
+attachments: 0,
+description: false,
+due: "2018-06-29T23:00:00.000Z",
+dueComplete: false
+},
+dueComplete: false,
+due: "2018-06-29T23:00:00.000Z",
+email: "anniekellner+2pebcc3utxxkmum18uv+2qfc5ade5xh3fquevmn+28m02basjl@boards.trello.com",
+idChecklists: [
+"5b7f12abbb25f4597077fa23"
+],
+idMembers: [ ],
+labels: [ ],
+shortUrl: "https://trello.com/c/fp41qNOH",
+subscribed: true,
+url: "https://trello.com/c/fp41qNOH/4-nsd-analysis-bonepile-bears",
+attachments: [ ],
+pluginData: [ ],
+customFieldItems: [ ]
+},
+{
+id: "5b1ead75304f91f5932d924a",
+checkItemStates: null,
+closed: false,
+creationMethod: null,
+dateLastActivity: "2018-06-11T17:12:33.015Z",
+desc: "",
+descData: null,
+idBoard: "5ab5869d9a87c94a1948abf8",
+idList: "5b1ea99d783a0135836aad89",
+idMembersVoted: [ ],
+idShort: 5,
+idAttachmentCover: null,
+limits: {
+attachments: {
+perCard: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+}
+},
+checklists: {
+perCard: {
+status: "ok",
+disableAt: 475,
+warnAt: 450
+}
+},
+stickers: {
+perCard: {
+status: "ok",
+disableAt: 67,
+warnAt: 63
+}
+}
+},
+idLabels: [ ],
+manualCoverAttachment: false,
+name: "HR and Core Area Analysis",
+pos: 262143,
+shortLink: "l1EQMWEK",
+badges: {
+votes: 0,
+attachmentsByType: {
+trello: {
+board: 0,
+card: 0
+}
+},
+viewingMemberVoted: false,
+subscribed: false,
+fogbugz: "",
+checkItems: 0,
+checkItemsChecked: 0,
+comments: 0,
+attachments: 0,
+description: false,
+due: "2018-07-13T23:00:00.000Z",
+dueComplete: false
+},
+dueComplete: false,
+due: "2018-07-13T23:00:00.000Z",
+email: "anniekellner+2pebcc3utxxkmum18uv+2qfc5gz0bz1uh1jr9ze+09rgpkgc7m@boards.trello.com",
+idChecklists: [ ],
+idMembers: [ ],
+labels: [ ],
+shortUrl: "https://trello.com/c/l1EQMWEK",
+subscribed: false,
+url: "https://trello.com/c/l1EQMWEK/5-hr-and-core-area-analysis",
+attachments: [ ],
+pluginData: [ ],
+customFieldItems: [ ]
+},
+{
+id: "5b1ead96fc0d996cded6b895",
+checkItemStates: null,
+closed: false,
+creationMethod: null,
+dateLastActivity: "2018-06-11T17:13:03.946Z",
+desc: "",
+descData: null,
+idBoard: "5ab5869d9a87c94a1948abf8",
+idList: "5b1ea99d783a0135836aad89",
+idMembersVoted: [ ],
+idShort: 6,
+idAttachmentCover: null,
+limits: {
+attachments: {
+perCard: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+}
+},
+checklists: {
+perCard: {
+status: "ok",
+disableAt: 475,
+warnAt: 450
+}
+},
+stickers: {
+perCard: {
+status: "ok",
+disableAt: 67,
+warnAt: 63
+}
+}
+},
+idLabels: [ ],
+manualCoverAttachment: false,
+name: "Summarize Movement & States",
+pos: 327679,
+shortLink: "KQiwYrq6",
+badges: {
+votes: 0,
+attachmentsByType: {
+trello: {
+board: 0,
+card: 0
+}
+},
+viewingMemberVoted: false,
+subscribed: false,
+fogbugz: "",
+checkItems: 0,
+checkItemsChecked: 0,
+comments: 0,
+attachments: 0,
+description: false,
+due: "2018-07-20T23:00:00.000Z",
+dueComplete: false
+},
+dueComplete: false,
+due: "2018-07-20T23:00:00.000Z",
+email: "anniekellner+2pebcc3utxxkmum18uv+2qfc5kmktarswwmel5h+06tm8520o0@boards.trello.com",
+idChecklists: [ ],
+idMembers: [ ],
+labels: [ ],
+shortUrl: "https://trello.com/c/KQiwYrq6",
+subscribed: false,
+url: "https://trello.com/c/KQiwYrq6/6-summarize-movement-states",
+attachments: [ ],
+pluginData: [ ],
+customFieldItems: [ ]
+},
+{
+id: "5b7c7a7ed4e6cb422c242abf",
+checkItemStates: null,
+closed: false,
+creationMethod: null,
+dateLastActivity: "2018-09-03T20:14:11.578Z",
+desc: "",
+descData: null,
+idBoard: "5ab5869d9a87c94a1948abf8",
+idList: "5b1ea99d783a0135836aad89",
+idMembersVoted: [ ],
+idShort: 7,
+idAttachmentCover: null,
+limits: {
+attachments: {
+perCard: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+}
+},
+checklists: {
+perCard: {
+status: "ok",
+disableAt: 475,
+warnAt: 450
+}
+},
+stickers: {
+perCard: {
+status: "ok",
+disableAt: 67,
+warnAt: 63
+}
+}
+},
+idLabels: [ ],
+manualCoverAttachment: false,
+name: "Meetings",
+pos: 393215,
+shortLink: "6ada07YB",
+badges: {
+votes: 0,
+attachmentsByType: {
+trello: {
+board: 0,
+card: 0
+}
+},
+viewingMemberVoted: false,
+subscribed: true,
+fogbugz: "",
+checkItems: 14,
+checkItemsChecked: 2,
+comments: 1,
+attachments: 0,
+description: false,
+due: null,
+dueComplete: false
+},
+dueComplete: false,
+due: null,
+email: "anniekellner+2pebcc3utxxkmum18uv+2qtl3fd1aw3zyw94edb+02e10scj3y@boards.trello.com",
+idChecklists: [
+"5b7f08b4f8e8455086891c4f",
+"5b89657b10a14915200d82a2"
+],
+idMembers: [ ],
+labels: [ ],
+shortUrl: "https://trello.com/c/6ada07YB",
+subscribed: true,
+url: "https://trello.com/c/6ada07YB/7-meetings",
+attachments: [ ],
+pluginData: [ ],
+customFieldItems: [ ]
+}
+],
+labels: [
+{
+id: "5ab5869d841642c2a8f00d3a",
+idBoard: "5ab5869d9a87c94a1948abf8",
+name: "",
+color: "green"
+},
+{
+id: "5ab5869d841642c2a8f00d3c",
+idBoard: "5ab5869d9a87c94a1948abf8",
+name: "",
+color: "yellow"
+},
+{
+id: "5ab5869d841642c2a8f00d3d",
+idBoard: "5ab5869d9a87c94a1948abf8",
+name: "",
+color: "orange"
+},
+{
+id: "5ab5869d841642c2a8f00d3e",
+idBoard: "5ab5869d9a87c94a1948abf8",
+name: "",
+color: "red"
+},
+{
+id: "5ab5869d841642c2a8f00d46",
+idBoard: "5ab5869d9a87c94a1948abf8",
+name: "",
+color: "purple"
+},
+{
+id: "5ab5869d841642c2a8f00d48",
+idBoard: "5ab5869d9a87c94a1948abf8",
+name: "",
+color: "blue"
+}
+],
+lists: [
+{
+id: "5ab586a65b084fceacd02366",
+name: "GIS",
+closed: true,
+idBoard: "5ab5869d9a87c94a1948abf8",
+pos: 65535,
+subscribed: false,
+limits: {
+cards: {
+openPerList: {
+status: "ok",
+disableAt: 4750,
+warnAt: 4500
+},
+totalPerList: {
+status: "ok",
+disableAt: 950000,
+warnAt: 900000
+}
+}
+}
+},
+{
+id: "5af0e349d8caace965e55c05",
+name: "Summarize Movement",
+closed: false,
+idBoard: "5ab5869d9a87c94a1948abf8",
+pos: 131071,
+subscribed: false,
+limits: {
+cards: {
+openPerList: {
+status: "ok",
+disableAt: 4750,
+warnAt: 4500
+},
+totalPerList: {
+status: "ok",
+disableAt: 950000,
+warnAt: 900000
+}
+}
+}
+},
+{
+id: "5b1ea99d783a0135836aad89",
+name: "CHAPTER ONE",
+closed: false,
+idBoard: "5ab5869d9a87c94a1948abf8",
+pos: 196607,
+subscribed: false,
+limits: {
+cards: {
+openPerList: {
+status: "ok",
+disableAt: 4750,
+warnAt: 4500
+},
+totalPerList: {
+status: "ok",
+disableAt: 950000,
+warnAt: 900000
+}
+}
+}
+}
+],
+members: [
+{
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+bio: "",
+bioData: null,
+confirmed: true,
+fullName: "Annie Kellner",
+idEnterprisesDeactivated: [ ],
+idPremOrgsAdmin: [ ],
+initials: "AK",
+memberType: "normal",
+products: [ ],
+status: "disconnected",
+url: "https://trello.com/anniekellner",
+username: "anniekellner"
+}
+],
+checklists: [
+{
+id: "5ae20d9ac49239d9088ae8bf",
+name: "TO DO",
+idBoard: "5ab5869d9a87c94a1948abf8",
+idCard: "5ab586b2e870032defab94f1",
+pos: 16384,
+limits: {
+checkItems: {
+perChecklist: {
+status: "ok",
+disableAt: 190,
+warnAt: 180
+}
+}
+},
+checkItems: [
+{
+idChecklist: "5ae20d9ac49239d9088ae8bf",
+state: "complete",
+id: "5ae20daa6881bb9e4c4e145e",
+name: "Summarize .dbf file from land points using table or dplyr in R",
+nameData: null,
+pos: 16968
+},
+{
+idChecklist: "5ae20d9ac49239d9088ae8bf",
+state: "complete",
+id: "5ae37be65f0a2aa8119d17c6",
+name: "Convert lat/long to UTM in order to use with adehabitatLT",
+nameData: null,
+pos: 33612
+}
+]
+},
+{
+id: "5b2197944f7a9b7e45f194ae",
+name: "TO DO",
+idBoard: "5ab5869d9a87c94a1948abf8",
+idCard: "5ab586b2e870032defab94f1",
+pos: 32768,
+limits: {
+checkItems: {
+perChecklist: {
+status: "ok",
+disableAt: 190,
+warnAt: 180
+}
+}
+},
+checkItems: [
+{
+idChecklist: "5b2197944f7a9b7e45f194ae",
+state: "complete",
+id: "5b2197b359ade138cf87b70b",
+name: "find all land locations for AK and CA. Do by year so can adjust for differences in OWS. ",
+nameData: {
+emoji: { }
+},
+pos: 16868
+},
+{
+idChecklist: "5b2197944f7a9b7e45f194ae",
+state: "complete",
+id: "5b22e5a2784cbab8c251ff10",
+name: "Create file for land-only OWS points",
+nameData: null,
+pos: 34186
+},
+{
+idChecklist: "5b2197944f7a9b7e45f194ae",
+state: "complete",
+id: "5b22e6df9bd3f4f9f93136ac",
+name: "Delete NA's from OWS_all_datetime.csv",
+nameData: null,
+pos: 8434
+}
+]
+},
+{
+id: "5b476a95293edf0658199d3d",
+name: "LANDING ANALYSIS",
+idBoard: "5ab5869d9a87c94a1948abf8",
+idCard: "5b1ead2643bf0cef40e7578d",
+pos: 16384,
+limits: {
+checkItems: {
+perChecklist: {
+status: "ok",
+disableAt: 190,
+warnAt: 180
+}
+}
+},
+checkItems: [
+{
+idChecklist: "5b476a95293edf0658199d3d",
+state: "incomplete",
+id: "5b4e5cf7d4eb65030b5ead98",
+name: "Check East-to-West extent",
+nameData: null,
+pos: 14441.875
+},
+{
+idChecklist: "5b476a95293edf0658199d3d",
+state: "complete",
+id: "5b4e5d9b4baa9c46ccfd1956",
+name: "Starting locations",
+nameData: null,
+pos: 12378.75
+},
+{
+idChecklist: "5b476a95293edf0658199d3d",
+state: "incomplete",
+id: "5b4e5da30703ff7e11e13003",
+name: "Distances swum",
+nameData: null,
+pos: 101842
+},
+{
+idChecklist: "5b476a95293edf0658199d3d",
+state: "incomplete",
+id: "5b4e5daa9a36c555b4cfcfe9",
+name: "Bearing swim-to-landing",
+nameData: null,
+pos: 119016
+},
+{
+idChecklist: "5b476a95293edf0658199d3d",
+state: "complete",
+id: "5b4e5dc3958bba119bc68285",
+name: "Correlations between longitudinal starting points v. landing points",
+nameData: null,
+pos: 136268
+},
+{
+idChecklist: "5b476a95293edf0658199d3d",
+state: "complete",
+id: "5b4e5dd0f4b3bf1668df3898",
+name: "Random v. clustered landing locations",
+nameData: null,
+pos: 153602
+},
+{
+idChecklist: "5b476a95293edf0658199d3d",
+state: "incomplete",
+id: "5b4e5de2917250a0137df17b",
+name: "Differences in landing locations between bonepile and natural bears (need NSD analysis)",
+nameData: {
+emoji: { }
+},
+pos: 170522
+},
+{
+idChecklist: "5b476a95293edf0658199d3d",
+state: "incomplete",
+id: "5b4e5dfd3e1d0f22b8960dfb",
+name: "Wind direction and speed during migration",
+nameData: null,
+pos: 187507
+},
+{
+idChecklist: "5b476a95293edf0658199d3d",
+state: "incomplete",
+id: "5b4e5e067776f626a197a429",
+name: "sea ice characteristics during migration",
+nameData: null,
+pos: 204148
+}
+]
+},
+{
+id: "5b48f326c5cc85282fb579b1",
+name: "TO DO - Land Designation 2",
+idBoard: "5ab5869d9a87c94a1948abf8",
+idCard: "5ab586b2e870032defab94f1",
+pos: 49152,
+limits: {
+checkItems: {
+perChecklist: {
+status: "ok",
+disableAt: 190,
+warnAt: 180
+}
+}
+},
+checkItems: [ ]
+},
+{
+id: "5b6e1d9fabf7a029d785d1e2",
+name: "Chicago",
+idBoard: "5ab5869d9a87c94a1948abf8",
+idCard: "5b1ead2643bf0cef40e7578d",
+pos: 32768,
+limits: {
+checkItems: {
+perChecklist: {
+status: "ok",
+disableAt: 190,
+warnAt: 180
+}
+}
+},
+checkItems: [
+{
+idChecklist: "5b6e1d9fabf7a029d785d1e2",
+state: "complete",
+id: "5b6e1dae7b41d65b8024ee9a",
+name: "Upload data into R (see below)",
+nameData: null,
+pos: 16918
+},
+{
+idChecklist: "5b6e1d9fabf7a029d785d1e2",
+state: "complete",
+id: "5b6e1db9101ecd7cc11f6cc2",
+name: "Cross-reference swim data with sea ice data",
+nameData: null,
+pos: 33982
+},
+{
+idChecklist: "5b6e1d9fabf7a029d785d1e2",
+state: "incomplete",
+id: "5b6e1dee7297b3755dd633ce",
+name: "Prep data for NSD and HR analyses",
+nameData: {
+emoji: { }
+},
+pos: 51249
+}
+]
+},
+{
+id: "5b7f08b4f8e8455086891c4f",
+name: "Questions",
+idBoard: "5ab5869d9a87c94a1948abf8",
+idCard: "5b7c7a7ed4e6cb422c242abf",
+pos: 32768,
+limits: {
+checkItems: {
+perChecklist: {
+status: "ok",
+disableAt: 190,
+warnAt: 180
+}
+}
+},
+checkItems: [
+{
+idChecklist: "5b7f08b4f8e8455086891c4f",
+state: "incomplete",
+id: "5b7f08d3b57ddc02bd860be9",
+name: "How little is too little - # fixes? range: 2-1797",
+nameData: null,
+pos: 17229
+},
+{
+idChecklist: "5b7f08b4f8e8455086891c4f",
+state: "incomplete",
+id: "5b855d1db04c8e398246d6e7",
+name: "Irregular fixes - 20529",
+nameData: null,
+pos: 34583
+},
+{
+idChecklist: "5b7f08b4f8e8455086891c4f",
+state: "incomplete",
+id: "5b85c29713c012282c8c5cc3",
+name: "How to better define "bonepile bears" for ambiguous ones",
+nameData: null,
+pos: 51060
+},
+{
+idChecklist: "5b7f08b4f8e8455086891c4f",
+state: "incomplete",
+id: "5b86e25459fa790b7819c1f0",
+name: "Swim: 20520?",
+nameData: null,
+pos: 68009
+},
+{
+idChecklist: "5b7f08b4f8e8455086891c4f",
+state: "incomplete",
+id: "5b86f6840aa05d184c3200ed",
+name: "Swim: lateral movements (usually westward) before south. example: 32366_2014, 20333, 20446(eastward),",
+nameData: null,
+pos: 85012
+}
+]
+},
+{
+id: "5b7f12abbb25f4597077fa23",
+name: "TO DO",
+idBoard: "5ab5869d9a87c94a1948abf8",
+idCard: "5b1ead38271cf6520651cd9f",
+pos: 16384,
+limits: {
+checkItems: {
+perChecklist: {
+status: "ok",
+disableAt: 190,
+warnAt: 180
+}
+}
+},
+checkItems: [
+{
+idChecklist: "5b7f12abbb25f4597077fa23",
+state: "complete",
+id: "5b7f12c780c5a950bfd401bf",
+name: "Cut traj for multiyear bursts: 20525, 20529, 20528, 20845",
+nameData: null,
+pos: 17103
+}
+]
+},
+{
+id: "5b89657b10a14915200d82a2",
+name: "TO DO post-meeting",
+idBoard: "5ab5869d9a87c94a1948abf8",
+idCard: "5b7c7a7ed4e6cb422c242abf",
+pos: 49152,
+limits: {
+checkItems: {
+perChecklist: {
+status: "ok",
+disableAt: 190,
+warnAt: 180
+}
+}
+},
+checkItems: [
+{
+idChecklist: "5b89657b10a14915200d82a2",
+state: "complete",
+id: "5b896587c0cc9e48c2c2c59c",
+name: "look for more data - why only 16 bears?",
+nameData: null,
+pos: 17382
+},
+{
+idChecklist: "5b89657b10a14915200d82a2",
+state: "incomplete",
+id: "5b89660b6077047298beebe7",
+name: "Bearing: extract bearing for each. Azimuth for each point then find mean?",
+nameData: null,
+pos: 34654
+},
+{
+idChecklist: "5b89657b10a14915200d82a2",
+state: "complete",
+id: "5b896690f909ce5425074d61",
+name: "look into Todd's paper - how defined 'arrival date' and calculated ice conditions before arrival",
+nameData: null,
+pos: 51662
+},
+{
+idChecklist: "5b89657b10a14915200d82a2",
+state: "incomplete",
+id: "5b8966976104ba45e7f1ec86",
+name: "Basic wind data feasible?",
+nameData: null,
+pos: 68289
+},
+{
+idChecklist: "5b89657b10a14915200d82a2",
+state: "incomplete",
+id: "5b8966a90625728629b4f337",
+name: "Determine migration absolutely - 'persistent velocity'?",
+nameData: null,
+pos: 85687
+},
+{
+idChecklist: "5b89657b10a14915200d82a2",
+state: "incomplete",
+id: "5b8966c488530b33f5951199",
+name: "Look into feasibility of extracting ice data for each GPS point - write GGE?",
+nameData: {
+emoji: { }
+},
+pos: 102898
+},
+{
+idChecklist: "5b89657b10a14915200d82a2",
+state: "incomplete",
+id: "5b89672cd930f14298253e77",
+name: "find density of points in the arctic - establish time frame before landing (when could the bears go to shore)?",
+nameData: null,
+pos: 120265
+},
+{
+idChecklist: "5b89657b10a14915200d82a2",
+state: "incomplete",
+id: "5b8d9426c3cfa66b7333d2ff",
+name: "Correlation longitude/latitude",
+nameData: null,
+pos: 137592
+},
+{
+idChecklist: "5b89657b10a14915200d82a2",
+state: "incomplete",
+id: "5b8d9613dc3b1d06c82f4ce3",
+name: "Randomless of landing",
+nameData: null,
+pos: 154612
+}
+]
+},
+{
+id: "5ba575e2e732194cfb152848",
+name: "Week of Monday Sept. 24",
+idBoard: "5ab5869d9a87c94a1948abf8",
+idCard: "5b1ead2643bf0cef40e7578d",
+pos: 49152,
+limits: {
+checkItems: {
+perChecklist: {
+status: "ok",
+disableAt: 190,
+warnAt: 180
+}
+}
+},
+checkItems: [
+{
+idChecklist: "5ba575e2e732194cfb152848",
+state: "complete",
+id: "5ba5760a43bb067b8243ded5",
+name: "Finish swim.xlsx - finalize dates",
+nameData: null,
+pos: 16831
+},
+{
+idChecklist: "5ba575e2e732194cfb152848",
+state: "complete",
+id: "5ba57614b3a8976b859f0849",
+name: "Correlate starting/landing",
+nameData: null,
+pos: 34077
+},
+{
+idChecklist: "5ba575e2e732194cfb152848",
+state: "complete",
+id: "5ba57636ce0b1d56796c9595",
+name: "Determine whether starting/landing is random or clustered",
+nameData: null,
+pos: 50740
+},
+{
+idChecklist: "5ba575e2e732194cfb152848",
+state: "complete",
+id: "5baaaccef0ad9f5c9de95b0d",
+name: "Create RMarkdown file for GW and SB",
+nameData: null,
+pos: 67829
+}
+]
+}
+],
+customFields: [ ],
+memberships: [
+{
+id: "5ab5869d9a87c94a1948abf9",
+idMember: "5a2af3066219d83bac715117",
+memberType: "admin",
+unconfirmed: false,
+deactivated: false
+}
+],
+pluginData: [ ]
+}
