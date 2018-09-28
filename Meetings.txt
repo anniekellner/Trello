@@ -1,0 +1,560 @@
+{
+id: "5b7c7a7ed4e6cb422c242abf",
+badges: {
+votes: 0,
+attachmentsByType: {
+trello: {
+board: 0,
+card: 0
+}
+},
+viewingMemberVoted: false,
+subscribed: true,
+fogbugz: "",
+checkItems: 14,
+checkItemsChecked: 2,
+comments: 1,
+attachments: 0,
+description: false,
+due: null,
+dueComplete: false
+},
+checkItemStates: [
+{
+idCheckItem: "5b896587c0cc9e48c2c2c59c",
+state: "complete"
+},
+{
+idCheckItem: "5b896690f909ce5425074d61",
+state: "complete"
+}
+],
+closed: false,
+creationMethod: null,
+dueComplete: false,
+dateLastActivity: "2018-09-03T20:14:11.578Z",
+desc: "",
+descData: null,
+due: null,
+email: "anniekellner+2pebcc3utxxkmum18uv+2qtl3fd1aw3zyw94edb+02e10scj3y@boards.trello.com",
+idBoard: "5ab5869d9a87c94a1948abf8",
+idChecklists: [
+"5b7f08b4f8e8455086891c4f",
+"5b89657b10a14915200d82a2"
+],
+idList: "5b1ea99d783a0135836aad89",
+idMembers: [ ],
+idMembersVoted: [ ],
+idShort: 7,
+idAttachmentCover: null,
+labels: [ ],
+limits: {
+attachments: {
+perCard: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+}
+},
+checklists: {
+perCard: {
+status: "ok",
+disableAt: 475,
+warnAt: 450
+}
+},
+stickers: {
+perCard: {
+status: "ok",
+disableAt: 67,
+warnAt: 63
+}
+}
+},
+idLabels: [ ],
+manualCoverAttachment: false,
+name: "Meetings",
+pos: 393215,
+shortLink: "6ada07YB",
+shortUrl: "https://trello.com/c/6ada07YB",
+subscribed: true,
+url: "https://trello.com/c/6ada07YB/7-meetings",
+actions: [
+{
+id: "5b898dc9c192df48b447c035",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+checkItem: {
+state: "complete",
+name: "look for more data - why only 16 bears?",
+id: "5b896587c0cc9e48c2c2c59c"
+},
+checklist: {
+name: "TO DO post-meeting",
+id: "5b89657b10a14915200d82a2"
+},
+card: {
+shortLink: "6ada07YB",
+idShort: 7,
+name: "Meetings",
+id: "5b7c7a7ed4e6cb422c242abf"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+}
+},
+type: "updateCheckItemStateOnCard",
+date: "2018-08-31T18:49:45.577Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b898dc55a20303797751d8e",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+checkItem: {
+state: "complete",
+name: "look into Todd's paper - how defined 'arrival date' and calculated ice conditions before arrival",
+id: "5b896690f909ce5425074d61"
+},
+checklist: {
+name: "TO DO post-meeting",
+id: "5b89657b10a14915200d82a2"
+},
+card: {
+shortLink: "6ada07YB",
+idShort: 7,
+name: "Meetings",
+id: "5b7c7a7ed4e6cb422c242abf"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+}
+},
+type: "updateCheckItemStateOnCard",
+date: "2018-08-31T18:49:41.355Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b89717496b34e549071ad5d",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "6ada07YB",
+idShort: 7,
+name: "Meetings",
+id: "5b7c7a7ed4e6cb422c242abf"
+},
+text: "TA had 29 GPS collared bears in his study. I double-checked my data and was able to add two more datapoints (pb_06817 and pb_20418), but still only 18 swims for 16 bears. Sent email to ask. File: swim.csv In the model, time before arrival was 1 week. ",
+textData: {
+emoji: { }
+},
+dateLastEdited: "2018-08-31T18:49:20.121Z"
+},
+type: "commentCard",
+date: "2018-08-31T16:48:52.374Z",
+limits: {
+reactions: {
+perAction: {
+status: "ok",
+disableAt: 950,
+warnAt: 900
+},
+uniquePerAction: {
+status: "ok",
+disableAt: 17,
+warnAt: 16
+}
+}
+},
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b89657b10a14915200d82a3",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+checklist: {
+name: "TO DO post-meeting",
+id: "5b89657b10a14915200d82a2"
+},
+card: {
+shortLink: "6ada07YB",
+idShort: 7,
+name: "Meetings",
+id: "5b7c7a7ed4e6cb422c242abf"
+}
+},
+type: "addChecklistToCard",
+date: "2018-08-31T15:57:47.952Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b896573e6b66154a3303d94",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+checklist: {
+name: "Aug 30",
+id: "5b7c7a946317ff7e0b69c062"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+card: {
+shortLink: "6ada07YB",
+idShort: 7,
+name: "Meetings",
+id: "5b7c7a7ed4e6cb422c242abf"
+}
+},
+type: "removeChecklistFromCard",
+date: "2018-08-31T15:57:39.707Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b89656e8bc1fc4f1c13efcb",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+checkItem: {
+state: "complete",
+name: "Make map with all departure and landing locations for swims. Make maps with questionable ones so can get advice from SB and GW.",
+id: "5b7c7ac8f8c6eb473dda3a3e"
+},
+checklist: {
+name: "Aug 30",
+id: "5b7c7a946317ff7e0b69c062"
+},
+card: {
+shortLink: "6ada07YB",
+idShort: 7,
+name: "Meetings",
+id: "5b7c7a7ed4e6cb422c242abf"
+},
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+}
+},
+type: "updateCheckItemStateOnCard",
+date: "2018-08-31T15:57:34.986Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b7f08b4f8e8455086891c50",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+checklist: {
+name: "Questions",
+id: "5b7f08b4f8e8455086891c4f"
+},
+card: {
+shortLink: "6ada07YB",
+idShort: 7,
+name: "Meetings",
+id: "5b7c7a7ed4e6cb422c242abf"
+}
+},
+type: "addChecklistToCard",
+date: "2018-08-23T19:19:16.820Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b7c7a946317ff7e0b69c063",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+checklist: {
+name: "Aug 30",
+id: "5b7c7a946317ff7e0b69c062"
+},
+card: {
+shortLink: "6ada07YB",
+idShort: 7,
+name: "Meetings",
+id: "5b7c7a7ed4e6cb422c242abf"
+}
+},
+type: "addChecklistToCard",
+date: "2018-08-21T20:48:20.984Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+},
+{
+id: "5b7c7a7ed4e6cb422c242ac0",
+idMemberCreator: "5a2af3066219d83bac715117",
+data: {
+board: {
+shortLink: "aOftIlo8",
+name: "Research",
+id: "5ab5869d9a87c94a1948abf8"
+},
+list: {
+name: "CHAPTER ONE",
+id: "5b1ea99d783a0135836aad89"
+},
+card: {
+shortLink: "6ada07YB",
+idShort: 7,
+name: "Meetings",
+id: "5b7c7a7ed4e6cb422c242abf"
+}
+},
+type: "createCard",
+date: "2018-08-21T20:47:58.108Z",
+limits: { },
+memberCreator: {
+id: "5a2af3066219d83bac715117",
+avatarHash: null,
+avatarUrl: null,
+fullName: "Annie Kellner",
+initials: "AK",
+username: "anniekellner"
+}
+}
+],
+checklists: [
+{
+id: "5b7f08b4f8e8455086891c4f",
+name: "Questions",
+idBoard: "5ab5869d9a87c94a1948abf8",
+idCard: "5b7c7a7ed4e6cb422c242abf",
+pos: 32768,
+limits: {
+checkItems: {
+perChecklist: {
+status: "ok",
+disableAt: 190,
+warnAt: 180
+}
+}
+},
+checkItems: [
+{
+idChecklist: "5b7f08b4f8e8455086891c4f",
+state: "incomplete",
+id: "5b7f08d3b57ddc02bd860be9",
+name: "How little is too little - # fixes? range: 2-1797",
+nameData: null,
+pos: 17229
+},
+{
+idChecklist: "5b7f08b4f8e8455086891c4f",
+state: "incomplete",
+id: "5b855d1db04c8e398246d6e7",
+name: "Irregular fixes - 20529",
+nameData: null,
+pos: 34583
+},
+{
+idChecklist: "5b7f08b4f8e8455086891c4f",
+state: "incomplete",
+id: "5b85c29713c012282c8c5cc3",
+name: "How to better define "bonepile bears" for ambiguous ones",
+nameData: null,
+pos: 51060
+},
+{
+idChecklist: "5b7f08b4f8e8455086891c4f",
+state: "incomplete",
+id: "5b86e25459fa790b7819c1f0",
+name: "Swim: 20520?",
+nameData: null,
+pos: 68009
+},
+{
+idChecklist: "5b7f08b4f8e8455086891c4f",
+state: "incomplete",
+id: "5b86f6840aa05d184c3200ed",
+name: "Swim: lateral movements (usually westward) before south. example: 32366_2014, 20333, 20446(eastward),",
+nameData: null,
+pos: 85012
+}
+]
+},
+{
+id: "5b89657b10a14915200d82a2",
+name: "TO DO post-meeting",
+idBoard: "5ab5869d9a87c94a1948abf8",
+idCard: "5b7c7a7ed4e6cb422c242abf",
+pos: 49152,
+limits: {
+checkItems: {
+perChecklist: {
+status: "ok",
+disableAt: 190,
+warnAt: 180
+}
+}
+},
+checkItems: [
+{
+idChecklist: "5b89657b10a14915200d82a2",
+state: "complete",
+id: "5b896587c0cc9e48c2c2c59c",
+name: "look for more data - why only 16 bears?",
+nameData: null,
+pos: 17382
+},
+{
+idChecklist: "5b89657b10a14915200d82a2",
+state: "incomplete",
+id: "5b89660b6077047298beebe7",
+name: "Bearing: extract bearing for each. Azimuth for each point then find mean?",
+nameData: null,
+pos: 34654
+},
+{
+idChecklist: "5b89657b10a14915200d82a2",
+state: "complete",
+id: "5b896690f909ce5425074d61",
+name: "look into Todd's paper - how defined 'arrival date' and calculated ice conditions before arrival",
+nameData: null,
+pos: 51662
+},
+{
+idChecklist: "5b89657b10a14915200d82a2",
+state: "incomplete",
+id: "5b8966976104ba45e7f1ec86",
+name: "Basic wind data feasible?",
+nameData: null,
+pos: 68289
+},
+{
+idChecklist: "5b89657b10a14915200d82a2",
+state: "incomplete",
+id: "5b8966a90625728629b4f337",
+name: "Determine migration absolutely - 'persistent velocity'?",
+nameData: null,
+pos: 85687
+},
+{
+idChecklist: "5b89657b10a14915200d82a2",
+state: "incomplete",
+id: "5b8966c488530b33f5951199",
+name: "Look into feasibility of extracting ice data for each GPS point - write GGE?",
+nameData: {
+emoji: { }
+},
+pos: 102898
+},
+{
+idChecklist: "5b89657b10a14915200d82a2",
+state: "incomplete",
+id: "5b89672cd930f14298253e77",
+name: "find density of points in the arctic - establish time frame before landing (when could the bears go to shore)?",
+nameData: null,
+pos: 120265
+},
+{
+idChecklist: "5b89657b10a14915200d82a2",
+state: "incomplete",
+id: "5b8d9426c3cfa66b7333d2ff",
+name: "Correlation longitude/latitude",
+nameData: null,
+pos: 137592
+},
+{
+idChecklist: "5b89657b10a14915200d82a2",
+state: "incomplete",
+id: "5b8d9613dc3b1d06c82f4ce3",
+name: "Randomless of landing",
+nameData: null,
+pos: 154612
+}
+]
+}
+],
+customFieldItems: [ ],
+members: [ ],
+pluginData: [ ]
+}
